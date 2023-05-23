@@ -1,0 +1,17 @@
+C:\Users\Israel_W\Desktop\c#\GroupPay\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\GroupPay.csproj.AssemblyReference.cache
+C:\Users\Israel_W\Desktop\c#\GroupPay\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\GroupPay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Israel_W\Desktop\c#\GroupPay\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\GroupPay.AssemblyInfoInputs.cache
+C:\Users\Israel_W\Desktop\c#\GroupPay\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\GroupPay.AssemblyInfo.cs
+C:\Users\Israel_W\Desktop\c#\GroupPay\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\GroupPay.csproj.CoreCompileInputs.cache
+C:\Users\Israel_W\Desktop\c#\GroupPay\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\GroupPay.exe
+C:\Users\Israel_W\Desktop\c#\GroupPay\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\GroupPay.deps.json
+C:\Users\Israel_W\Desktop\c#\GroupPay\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\GroupPay.runtimeconfig.json
+C:\Users\Israel_W\Desktop\c#\GroupPay\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\GroupPay.dll
+C:\Users\Israel_W\Desktop\c#\GroupPay\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\GroupPay.pdb
+C:\Users\Israel_W\Desktop\c#\GroupPay\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\GroupPay.dll
+C:\Users\Israel_W\Desktop\c#\GroupPay\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\GroupPay.dll
+C:\Users\Israel_W\Desktop\c#\GroupPay\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\GroupPay.pdb
+C:\Users\Israel_W\Desktop\c#\GroupPay\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\GroupPay.genruntimeconfig.cache
+C:\Users\Israel_W\Desktop\c#\GroupPay\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\GroupPay.dll
+C:\Users\Israel_W\Desktop\c#\GroupPay\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Israel_W\Desktop\c#\GroupPay\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\GroupPay.csproj.CopyComplete

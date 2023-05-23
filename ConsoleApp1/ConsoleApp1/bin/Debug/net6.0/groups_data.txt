@@ -1,0 +1,1 @@
+[{"GroupId":0,"GroupName":"g1","ConnectingLink":"groups/g1/0","GroupPurchases":[]},{"GroupId":0,"GroupName":"g1","ConnectingLink":"groups/g1/0","GroupPurchases":[]}]

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Z3/yUrl1l2obM6Dl9nMKqIi9PYSRBda6dWZZ2hUNisBtgEqssnt96BI/bkSUfYD5UHPNxzCmKU5BF/+2qXmrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Israel_W\\Desktop\\GroupPay\\ConsoleApp1\\ConsoleApp1\\GroupPay.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Israel_W\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
